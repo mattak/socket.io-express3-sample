@@ -1,0 +1,11 @@
+# grunt & node
+
+node_modules/
+dist/
+
+# etc..
+
+*~
+*.swp
+.DS_Store
+
