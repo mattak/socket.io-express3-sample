@@ -7,7 +7,9 @@ minimum sample to use socket.io on express3.
 1. install node
 
     $ curl -L git.io/nodebrew | perl - setup
+
     $ nodebrew install node latest
+
     $ export PATH=$HOME/.nodebrew/current/bin:$PATH
 
 2. install grunt
